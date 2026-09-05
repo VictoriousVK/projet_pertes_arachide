@@ -1,0 +1,5 @@
+segment,n,age,superficie,production,rendement,stock,pct_vente,hermetique,pertes_decl,valeur_pertes,couverture,emprunt,libelle
+0,26,54.27,6.0,5000.0,800.0,2000.0,65.58,0.38,0.92,100000.0,0.62,0.0,Grands producteurs exposés
+1,13,55.08,1.0,1000.0,500.0,1000.0,13.08,0.46,1.0,50000.0,0.15,0.25,Micro-exploitants d'autoconsommation
+2,42,53.67,3.0,1500.0,600.0,475.0,64.05,0.79,0.0,7500.0,0.24,0.06,Stockeurs sécurisés
+3,114,51.86,2.0,1500.0,725.0,500.0,67.19,0.13,0.95,50000.0,0.04,0.19,Petits producteurs vulnérables
